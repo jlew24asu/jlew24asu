@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlew24asu
-- 👀 I’m interested in ... crypto and sysadmin stuff. Currently at SRE at Bloomberg.
-- 🌱 I’m currently learning ... bash, python, kubernetes, and all things crypto.
+- 👀 SRE at Bloomberg.
+- 🌱 I’m currently learning ... bash, python, kubernetes, salt, and chef.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
