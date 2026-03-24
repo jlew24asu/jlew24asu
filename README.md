@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlew24asu
 - 👀 SRE at Bloomberg.
-- 🌱 I’m currently building a personal finance app, spendspace.io
+- 🌱 I’m currently building a personal finance app, spendspace.io (private repos)
 
 <!---
 jlew24asu/jlew24asu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
